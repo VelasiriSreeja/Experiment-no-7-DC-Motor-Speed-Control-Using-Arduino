@@ -51,7 +51,7 @@ void loop()
 
 ![Screenshot (300)](https://github.com/VelasiriSreeja/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118344328/06edd318-92ad-4d4d-bc34-bfcc59c01007)
 
-
+### RPM
 ![Screenshot (298)](https://github.com/VelasiriSreeja/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118344328/9ffe367c-75c6-4a4e-ac36-501494498902)
 
 ### RESULTS AND DISCUSSION 
